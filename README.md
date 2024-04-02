@@ -5,6 +5,18 @@ This code is written is to check the strength of your enterd password whether yo
 
 Some output results of the code are shared below
 
-<img src="1.jpeg" alt="1">
+<img src="1.png" alt="1">
+
+<img src="2.png" alt="2">
+
+
+<img src="3.png" alt="3">
+
+
+<img src="4.png" alt="4">
+
+
+
+
 
 
